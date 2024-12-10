@@ -1,15 +1,48 @@
-<h1 align="center">Hi 👋, I'm Shasmeet Shinde</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+# 👋 Hi, I'm [Shasmeet Shinde]!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkkreaper007" alt="darkkreaper007" /></a> </p>
+🎓 I’m a student at **MIT, Manipal**, aspiring to become a software engineer.  
+💻 Passionate about **AI/ML**, **Web Development**, and **App Development**.  
+🚀 I love building projects, learning new technologies, and collaborating on exciting ideas!
 
-- 🌱 I’m currently learning **AI/ML, Web Development, App Development**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🌟 **What I Do**
+- 🌐 **Web Development**: Crafting responsive and interactive websites.
+- 📱 **App Development**: Building user-friendly and functional mobile applications.
+- 🤖 **Artificial Intelligence & Machine Learning**: Exploring data-driven solutions and creating intelligent systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkkreaper007&show_icons=true&locale=en" alt="darkkreaper007" /></p>
+### 🔧 **Technologies I Work With**
+- **Languages**: Python, JavaScript, Dart, C, C++
+- **Web**: HTML, CSS, React, Node.js
+- **Mobile**: Flutter
+- **AI/ML**: TensorFlow, PyTorch
+- **Tools**: Git, VS Code, Android Studio
+
+---
+
+### 📈 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+### 🌱 **What I’m Currently Learning**
+- Advanced Machine Learning Algorithms
+- Backend Development with Node.js and Express
+- System Design Principles
+
+---
+
+### 📫 **Let’s Connect!**
+- LinkedIn: [My Linkedin Profile](www.linkedin.com/in/shasmeetshinde)
+- Email: [My Gmail](mailto:shasmeet.shasmeet@gmail.com)
+
+---
+
+### 🛠️ **Projects**
+Check out my repositories below for my latest projects and contributions!
+
+---
+
+⭐ **Fun Fact**: I believe every bug in code teaches you something new! 🐛

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shasmeet Shinde]!
+# 👋 Hi, I'm Shasmeet Shinde!
 
 🎓 I’m a student at **MIT, Manipal**, aspiring to become a software engineer.  
 💻 Passionate about **AI/ML**, **Web Development**, and **App Development**.  
@@ -23,7 +23,7 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkkReaper007&show_icons=true&theme=radical)
 
 ---
 
